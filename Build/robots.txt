@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abbas-hameed.github.io/tracker//sitemap.xml
